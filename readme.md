@@ -16,7 +16,7 @@ The goal was to strengthen understanding of how JavaScript evaluates expressions
 | **Conditional Statements** | Used **if**, **else if**, **else**, **ternary**, and **switch** for decision-making logic. |
 | **User Interaction** | Implemented **prompt()** to take user input for **age**, **marks**, and other values. |
 | **Logical Operators** | Applied **(&&)**, **(OR)**, and **(!)** to create complex conditions and validate multiple checks. |
-| **Bitwise Operators** | Introduced (&) and (|) for simple bitwise calculations. |
+| **Bitwise Operators** | Introduced **(&)** and **(OR symbol)** for simple bitwise calculations. |
 
 🛠️ **Technologies Used**  
 - **JavaScript** – Core concepts, operators, hoisting, and conditional logic  
@@ -36,3 +36,5 @@ Through this task, I learned how to:
 This task was completed as part of **Sheryians Coding School Cohort 2.0** under **Harsh Bhaiya**.  
 
 It reinforced **JavaScript fundamentals**, **operator usage**, **hoisting behavior**, and **conditional programming practice**.
+
+---
