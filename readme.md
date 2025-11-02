@@ -36,5 +36,4 @@ Through this task, I learned how to:
 This task was completed as part of **Sheryians Coding School Cohort 2.0** under **Harsh Bhaiya**.  
 
 It reinforced **JavaScript fundamentals**, **operator usage**, **hoisting behavior**, and **conditional programming practice**.
-
 ---
